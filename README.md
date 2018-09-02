@@ -58,6 +58,9 @@ Execute the `teardown.sh` script.
 ```
 ./teardown.sh
 ```
+## Built With
+
+* [Hackernoon](https://hackernoon.com/getting-started-with-microservices-and-kubernetes-76354312b556) - Getting started with microservices and Kubernetes
 
 ## Authors
 
