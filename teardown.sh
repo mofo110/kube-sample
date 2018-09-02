@@ -1,4 +1,6 @@
 #!/bin/bash
+eval $(minikube docker-env)
+
 kubectl delete service auth-svc
 kubectl delete deployment auth-svc
 
